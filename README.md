@@ -6,3 +6,4 @@ API performance metrics
 Testing framework update
 Configuration file changes
 Release candidate notes
+Security audit summary
