@@ -7,3 +7,4 @@ Testing framework update
 Configuration file changes
 Release candidate notes
 Security audit summary
+Project status report
